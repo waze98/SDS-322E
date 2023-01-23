@@ -1,4 +1,4 @@
 # SDS 322E
-Class work
+Class Project
 
 
